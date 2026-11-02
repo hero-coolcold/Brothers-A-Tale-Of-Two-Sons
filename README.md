@@ -218,4 +218,4 @@ Brothers: A Tale of Two Sons is available as a full free version with all featur
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-11-02 01:56:54 UTC
+**Last updated:** 2026-11-02 08:42:07 UTC
